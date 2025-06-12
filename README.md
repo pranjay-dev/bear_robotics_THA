@@ -125,7 +125,7 @@ To test and interact with the banking system, two main files are provided:
 
 ## TECHNOLOGICAL DEBT
 
-Despite offering core banking and ATM simulation functionality, several areas of the system currently carry **technological debt** that should be addressed in future iterations:
+This is a bare bone banking and ATM simulation functionality system, several areas of the system currently carry **technological debt** that should be addressed in future iterations:
 
 ### 1. Logging
 - There is no structured logging system or log-level control.
